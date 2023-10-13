@@ -1,5 +1,4 @@
 ### Hi there👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a Chemical Engineering student at MNS University of Engineering and Technology, Multan, Pakistan.
 - 🌱 I'm passionate about data-driven marketing, project management, and digital technology.
